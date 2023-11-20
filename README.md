@@ -1,7 +1,7 @@
 # assignment
 clone the repo
 <br>
--> install requirements.txt<br>
+install requirements.txt<br>
 ```
 pip install -r requirements.txt
 ```
