@@ -3,8 +3,8 @@ clone the repo
 ```
 git clone https://github.com/NarayanabhatlaMahesh/assignment.git
 ```
-<br>
-install requirements.txt<br>
+
+install requirements.txt
 ```
 pip install -r requirements.txt
 ```
